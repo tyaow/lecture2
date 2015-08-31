@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="67df990a-9c38-4868-b8d6-252e4e978dc0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CityGallery.html" afterPath="$PROJECT_DIR$/CityGallery.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="lecture2.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,8 +27,8 @@
       <file leaf-file-name="CityGallery.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/CityGallery.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.60946745">
-              <caret line="69" column="33" selection-start-line="69" selection-start-column="33" selection-end-line="69" selection-end-column="33" />
+            <state vertical-scroll-proportion="0.791716">
+              <caret line="76" column="9" selection-start-line="76" selection-start-column="9" selection-end-line="76" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -180,7 +179,13 @@
       <option name="project" value="LOCAL" />
       <updated>1441021783301</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add another paragraph">
+      <created>1441023180951</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1441023180951</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -213,7 +218,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add population" />
-    <option name="LAST_COMMIT_MESSAGE" value="add population" />
+    <MESSAGE value="add another paragraph" />
+    <option name="LAST_COMMIT_MESSAGE" value="add another paragraph" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -246,8 +252,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CityGallery.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.60946745">
-          <caret line="69" column="33" selection-start-line="69" selection-start-column="33" selection-end-line="69" selection-end-column="33" />
+        <state vertical-scroll-proportion="0.791716">
+          <caret line="76" column="9" selection-start-line="76" selection-start-column="9" selection-end-line="76" selection-end-column="9" />
           <folding />
         </state>
       </provider>
